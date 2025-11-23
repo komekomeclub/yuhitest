@@ -1,0 +1,7 @@
+{
+  "name": "Compass Map",
+  "description": "A mobile-first map application that displays your current location and draws a directional line based on your device's compass heading.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
